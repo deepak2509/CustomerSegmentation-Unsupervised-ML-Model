@@ -1,6 +1,6 @@
 # CustomerSegmentation-Unsupervised-ML-Model
 
-In this procject, I worked on a real-world e-commerce sales data and segmented its customer base with Python, scikit-learn library and Plotly.
+In this project, I worked on a real-world e-commerce sales data and segmented its customer base with Python, scikit-learn library and Plotly.
 
 The workflow of the project is as follows:
 
